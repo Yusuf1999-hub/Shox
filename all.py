@@ -1,2 +1,2 @@
 test boshladim nimadur qachon kimdur aloooooooooo
-valijon 
+valijon kabutarrrr
