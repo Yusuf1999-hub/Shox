@@ -1,2 +1,2 @@
 test boshladim nimadur qachon kimdur aloooooooooo
-valijon kabutarrrr
+valijon kabutarrrr   malina
