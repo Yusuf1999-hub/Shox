@@ -1,1 +1,1 @@
-(lambda x,y: x)(5)
+(lambda x,y: x+y)(5,4)
